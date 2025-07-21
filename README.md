@@ -28,7 +28,7 @@ The purpose of this dashboard is to identify trends in passenger traffic, season
 ---
 
 ## 📸 Sample Dashboard Screenshot
-![Dashboard Overview](DashBoard Overview.png)
+![Dashboard Overview](Dashboard-overview.png)
 
 
 ---
